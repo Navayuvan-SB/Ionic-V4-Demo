@@ -15,3 +15,9 @@ Go through the first Step of the first answer for passing an object using **Navi
 ## Async & Await
 Understand what is Async & Await, how it works and how it replaced the **promises** in Ionic V4 : [Click here](https://javascript.info/async-await)
 
+## Initialising `@angular/fire` (AngularFire) in Ionic V4
+Go through this like to understand how `@angular/fire` (AngularFire) can be initialized in Ionic V4 : [Click here](https://alligator.io/ionic/firebase-in-ionic4/)
+
+## CRUD Operaions using AngularFire
+Try to understand the CRUD Operations using AngularFire in Ionic V4. This link is based on a Todo App, but don't mind it and kindly concentrate on the operations they have done : [Click here](https://alligator.io/angular/firebase-crud-operations/)
+
